@@ -72,3 +72,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 >>>>>>> 390b404 (third commit)
+
+
+
+
+
+***************************************************
+Hosting done through firebase cloud : web app link: doc-edit-76992.web.app            or           doc-edit-76992.firebaseapp.com
+
+
+
+
+
+
+
