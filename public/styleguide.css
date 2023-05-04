@@ -1,0 +1,118 @@
+:root { 
+    --baby-powder: #fcfcfc24;
+    --black: #000000;
+    --black-coral-pearl: #506169;
+    --cedar-wood-finish: #731f07;
+    --fire: #a5410f;
+    --gunsmoke: #848484;
+    --tussock: #d5963d;
+    --white: #ffffff;
+  
+    --font-size-l: 25.1px;
+    --font-size-m: 24px;
+    --font-size-s: 23.1px;
+    --font-size-xl: 26.7px;
+    --font-size-xxl: 29.3px;
+    --font-size-xxxl: 32px;
+    --font-size-xxxxl: 64px;
+  
+    --font-family-circular_air-bold: "Circular Air-Bold", Helvetica;
+    --font-family-circular_air-light: "Circular Air-Light", Helvetica;
+    --font-family-playfair_display_sc: "Playfair Display SC", Helvetica;
+  }
+  .circularair-light-white-24px {
+    color: var(--white);
+    font-family: var(--font-family-circular_air-light);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 300;
+  }
+  
+  .circularair-light-gunsmoke-26-7px {
+    color: var(--gunsmoke);
+    font-family: var(--font-family-circular_air-light);
+    font-size: var(--font-size-xl);
+    font-style: normal;
+    font-weight: 300;
+  }
+  
+  .circularair-bold-gunsmoke-32px {
+    color: var(--gunsmoke);
+    font-family: var(--font-family-circular_air-bold);
+    font-size: var(--font-size-xxxl);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .circularair-bold-white-29-3px {
+    color: var(--white);
+    font-family: var(--font-family-circular_air-bold);
+    font-size: var(--font-size-xxl);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .playfairdisplaysc-normal-white-29-4px {
+    color: var(--white);
+    font-family: var(--font-family-playfair_display_sc);
+    font-size: 29.4px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .circularair-bold-cedar-wood-finish-25-1px {
+    color: var(--cedar-wood-finish);
+    font-family: var(--font-family-circular_air-bold);
+    font-size: var(--font-size-l);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .circularair-bold-tussock-29-3px {
+    color: var(--tussock);
+    font-family: var(--font-family-circular_air-bold);
+    font-size: var(--font-size-xxl);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .circularair-bold-cedar-wood-finish-26-7px {
+    color: var(--cedar-wood-finish);
+    font-family: var(--font-family-circular_air-bold);
+    font-size: var(--font-size-xl);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .circularair-light-cedar-wood-finish-23-1px {
+    color: var(--cedar-wood-finish);
+    font-family: var(--font-family-circular_air-light);
+    font-size: var(--font-size-s);
+    font-style: normal;
+    font-weight: 300;
+  }
+  
+  .circularair-light-gunsmoke-32px {
+    color: var(--gunsmoke);
+    font-family: var(--font-family-circular_air-light);
+    font-size: var(--font-size-xxxl);
+    font-style: normal;
+    font-weight: 300;
+  }
+  
+  .circularair-bold-white-48px {
+    color: var(--white);
+    font-family: var(--font-family-circular_air-bold);
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .circularair-bold-white-32px {
+    color: var(--white);
+    font-family: var(--font-family-circular_air-bold);
+    font-size: var(--font-size-xxxl);
+    font-style: normal;
+    font-weight: 700;
+  }
+  

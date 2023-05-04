@@ -1,0 +1,13 @@
+<div className="App">
+                <h2>DOCUMENT VIEWER</h2>
+                <form className='ui form'>
+                <div className="field">
+                    <label>Select the DOCUMENT</label>
+                    <input type="file" onChange={this.fileChangedHandler}/>               
+                    </div>
+                <div className="field">
+                    <label>surname</label>
+                    <input type = "text" name="surname" placeholder="enter your last name"/>
+                </div>
+                <button onClick={this.uploadHandler}>Upload!</button>
+                </form>
