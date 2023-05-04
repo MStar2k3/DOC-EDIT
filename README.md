@@ -1,3 +1,7 @@
+Hosting done through firebase cloud : web app link: doc-edit-76992.web.app            or           doc-edit-76992.firebaseapp.com
+
+GOOGLE DRIVE LINK WITH SCREENSHOTS: https://drive.google.com/drive/folders/1VgzQ9ra7x-56Qyq0kgpwuJoWI5DNoV4T?usp=share_link
+
 <<<<<<< HEAD
 # DOC-EDIT
 =======
