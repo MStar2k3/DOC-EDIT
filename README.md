@@ -2,6 +2,8 @@ Hosting done through firebase cloud : web app link: doc-edit-76992.web.app      
 
 GOOGLE DRIVE LINK WITH SCREENSHOTS: https://drive.google.com/drive/folders/1VgzQ9ra7x-56Qyq0kgpwuJoWI5DNoV4T?usp=share_link
 
+to see the frontend design open index.html in public folder
+
 <<<<<<< HEAD
 # DOC-EDIT
 =======
